@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Additional docs
-app.py
-
 
 # Distribution / packaging
 .Python
